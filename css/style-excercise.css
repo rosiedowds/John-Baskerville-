@@ -1,0 +1,119 @@
+/*------ CSS ------*/
+
+
+body{
+	max-width: 600px;
+	margin: auto;
+	padding: 0 33px;
+}
+
+p {
+	line-height: 1.5em;
+}
+
+h1 {
+	font-size: 6em;
+	margin-bottom: 5px;
+	color: #4E572F;
+}
+
+h2 {
+	font-style: italic;
+	font-size: 2.25em;
+	padding-bottom: 25px;
+	margin: 0 0 0.5em;
+	text-indent: 20px;
+	color: #818F4D;
+}
+
+h3 {
+	font-size: 1.25em;
+	text-transform: uppercase;
+	color: #818F4D;
+}
+
+blockquote {
+	margin-top: 10px;
+	font-weight: normal;
+	font-style: em;
+	padding-top: 1.5em;
+	hanging-punctuation: first;
+	text-indent: -0.4em;
+	color: #9AAB5C;
+	font-size: 20px;
+	text-align: center-left;
+}
+
+blockquote cite {
+	color: #999;
+	font-size: 14px;
+	text-align: right;
+}
+
+.intro {
+	font-size: 1.25em;
+}
+
+.dropcap {
+	float: left;
+	font-size: 5.1em;
+	line-height: 0.7em;
+	margin-right: 0px;
+	color: #4E572F;
+}
+
+
+					/*----------- VERSION 1----------*/
+
+.version-1 {
+			padding-top: 50px;
+			font-family: 'raleway', sans-Serif;
+}
+
+.version-1 .intro {
+			padding-bottom: 1.1em;
+}
+
+.version-1 blockquote {
+			line-height: 1.4em;
+}
+
+					/*----------- VERSION 2----------*/
+					
+					
+					
+
+.version-2 {
+			font-family: 'libra-baskerville',serif;
+}
+
+.introcaps {
+			text-transform: uppercase;
+}
+
+.version-2 cite {
+			font-style: normal;
+			text-transform: uppercase;
+}
+
+.version-2 p+p+p {
+			text-indent: 1.5em;
+}
+
+.version-2 p+p {
+			margin-bottom: -1em;
+}
+
+					/*------------- VERSION 3------------*/
+
+.version-3 {
+			font-family: 'Roboto', sans-serif;
+}
+
+
+hr {
+	margin: 100px 0;
+	height: 1px;
+	backround-color: #4E572F;
+	color: #4E572F;
+}
