@@ -20,5 +20,5 @@ History of Type
 CSS Exercise
 =============
 
-[CSS Exercise](https://rosiedowds.github.io/john_baskerville/css-excercise.html)
+[CSS Exercise](https://rosiedowds.github.io/john_baskerville/css-exercise.html)
 An excercise using CSS to format the same text in three different ways 
